@@ -1,1 +1,3 @@
-# update_discord_tar_gz
+# Update Discord on Linux (tar.gz)
+
+Run `sudo ./update-discord.sh`
